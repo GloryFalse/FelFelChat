@@ -4,9 +4,9 @@ FelFel Chat is a real-time chat application built with Next.js, Prisma (SQLite),
 
 ## Stack
 - Next.js (App Router) + TypeScript
-- Prisma + SQLite
+- Prisma + MongoDB
 - Socket.IO (custom `server.mjs`)
-- JWT auth (HTTP-only cookie)
+- JWT auth (HTTP/HTTPS cookie)
 
 ## Features
 - Private chats, groups, channels
